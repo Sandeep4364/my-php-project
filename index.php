@@ -1,4 +1,4 @@
-<?php
-echo "Hello, World!";
-echo "this is a fist task "
+<?php 
+echo "hello world" ;
+echo "this is the task in internship project"
 ?>
